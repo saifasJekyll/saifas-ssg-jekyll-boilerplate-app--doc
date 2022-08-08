@@ -1,5 +1,7 @@
 # Jekyll boilerplate
 
+This repository contains an empty Jekyll project and a README that describes a complete deployment of Jekyll on your Linux operating system for further work with it.
+
 ## Preparatory work
 
 Before you start working with Jekyll you need to install the following components on your system.
