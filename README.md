@@ -1,4 +1,4 @@
-# SAIFAS Jekyll based App-boilerplate documentation
+# SAIFAS Jekyll App-boilerplate documentation
 #jekyll-app-boilerplate-documentation
 
 [Jekyll app-boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-app-boilerplate)
