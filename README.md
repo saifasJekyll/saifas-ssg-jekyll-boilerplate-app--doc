@@ -1,7 +1,7 @@
 # SAIFAS Jekyll based App-boilerplate documentation
 #jekyll-app-boilerplate-documentation
 
-[App-boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-app-boilerplate)
+[Jekyll app-boilerplate](https://github.com/JekyllGO/saifas-ssg-jekyll-app-boilerplate)
 
 This repository contains an empty Jekyll project and a README that describes a complete deployment of Jekyll on your Linux operating system for further work with it.
 
