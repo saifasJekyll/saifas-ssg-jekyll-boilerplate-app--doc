@@ -1,4 +1,4 @@
-# Jekyll boilerplate documentation
+# SAIFAS Jekyll based App-boilerplate documentation
 
 This repository contains an empty Jekyll project and a README that describes a complete deployment of Jekyll on your Linux operating system for further work with it.
 
